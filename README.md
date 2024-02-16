@@ -3,6 +3,7 @@ before i made changes
 ![b1](https://github.com/ritik48/Bill-Split/assets/84488726/ec852f98-1b81-4b15-b1ca-b0b41fc9a9d0)
 
 after I made initial changes
+
 <img width="653" alt="image" src="https://github.com/HBADE2002/Bill_Split_Open_Source_Project/assets/78660475/a853ced5-2a7b-46b2-8573-c66cb09a7820">
 
 
